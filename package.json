@@ -1,8 +1,8 @@
 {
   "name": "fcc-api-challenges",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A project to complete the challenges of the course of Back End Development and APIs of freeCodeCamp",
+  "main": "./assets/App.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
     "api"
   ],
   "author": "Miguel Donizete",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
